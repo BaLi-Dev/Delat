@@ -404,3 +404,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
